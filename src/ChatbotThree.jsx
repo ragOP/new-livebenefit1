@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef } from "react";
 import { motion } from "framer-motion";
-import agent from "../src/assets/pic.png";
+import agent from "../src/assets/pic.jpg";
 import tick from "../src/assets/tick2.png";
 import deliver from "../src/assets/delivered.svg"
 import {
